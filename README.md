@@ -1,9 +1,3 @@
-- 프로젝트 홈페이지 일부:
-![KakaoTalk_20240501_160937958_01](https://github.com/mogld/Database-project/assets/143364802/809ac8f0-4154-40bc-98f5-abbb40389706)
-
-![KakaoTalk_20240501_160937958](https://github.com/mogld/Database-project/assets/143364802/b9bf9994-c113-4af0-93e5-3e65e54416c6)
-
-![KakaoTalk_20240501_160937958_02](https://github.com/mogld/Database-project/assets/143364802/38d6de04-2482-4ccc-ba68-0e6e2fe1816d)
 
 - 사용방법: 
 1. 로그인 후 프로젝트 탭으로 이동하여 새 프로젝트를 만듭니다.
